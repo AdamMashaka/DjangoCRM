@@ -13,8 +13,6 @@ from voip.settings import *         # NOQA
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
-
-# from django.core.management.utils import get_random_secret_key
 # print(get_random_secret_key())
 SECRET_KEY = 'j1c=6$s-dh#$ywt@(q4cm=j&0c*!0x!e-qm6k1%yoliec(15tn'
 
